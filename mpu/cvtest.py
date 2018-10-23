@@ -3,7 +3,7 @@
 import serial
 import cv2
 import numpy as np
-
+#这是第一个改动，测试push
 bins = np.arange(256).reshape(256,1)
 
 
